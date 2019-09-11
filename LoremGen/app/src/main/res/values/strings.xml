@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoremGen</string>
+    <string name="title_text">Lorem Generator</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="creator_fill">Name</string>
+    <string name="confirm_button_text">Confirm</string>
+
+    <string-array name="lorem_list">
+        <item>Lorem Ipsum</item>
+        <item>Cheese Ipsum</item>
+        <item>Tuna Ipsum</item>
+        <item>Kiwi Ipsum</item>
+    </string-array>
+
+</resources>
