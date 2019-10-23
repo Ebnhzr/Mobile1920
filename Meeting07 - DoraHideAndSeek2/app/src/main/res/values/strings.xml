@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Meeting07 - DoraHideAndSeek2</string>
+    <string name="game_title">Dora Hide And Seek</string>
+    <string name="start_button_text">START</string>
+    <string name="how_to_play">How to play</string>
+    <string name="how_to_play_body">
+        This game have many ending, Feel free to explore!
+    </string>
+    <string name="action_button_text">DECIDE</string>
+    <string name="unlocked_endings">ACHIEVEMENTS</string>
+    <string name="ending_one">FAKE FRIEND</string>
+    <string name="ending_two">ANIMAL ABUSE</string>
+    <string name="normal_ending_one">Boring ..</string>
+    <string name="best_ending">SWIPER BECAME A FRIEND</string>
+</resources>
